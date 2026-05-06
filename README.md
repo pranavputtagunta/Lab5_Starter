@@ -7,5 +7,5 @@ Pranav Puttagunta
 
 2) Yes. Calculating the string length and validating it against a max character limit of 80 is an example of a small isolated behavior, which a single test case can be written for. 
 
-(Expose)[https://pranavputtagunta.github.io/Lab5_Starter/expose.html]
-(Explore)[https://pranavputtagunta.github.io/Lab5_Starter/explore.html]
+[Expose](https://pranavputtagunta.github.io/Lab5_Starter/expose.html)  
+[Explore](https://pranavputtagunta.github.io/Lab5_Starter/explore.html)
